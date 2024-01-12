@@ -1,16 +1,23 @@
-### Hi there 👋
+# Project Name
 
-<!--
-**Bhawnasingh10/Bhawnasingh10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Short description or tagline for your project.
 
-Here are some ideas to get you started:
+## Table of Contents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [About](#about)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About
+
+Provide a brief overview of your project. What does it do? What problem does it solve?
+
+## Installation
+
+Describe the steps to install your project. Include any dependencies and prerequisites.
+
+```bash
+# Example installation commands
+git clone https://www.github.com/Bhawnasingh10/Bhawnasingh10
